@@ -1,4 +1,4 @@
-![BDS Logo Assets_Logo  Github](https://user-images.githubusercontent.com/83420824/152443909-f6b8b1d2-2090-4c5a-93db-9f6fe6f13270.png)
+![This is an image](https://mobilizeux.blob.core.windows.net/bifrost/LogoDarkMode.png)
 
 
 

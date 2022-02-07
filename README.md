@@ -1,7 +1,5 @@
 ![This is an image](https://mobilizeux.blob.core.windows.net/bifrost/LogoDarkMode.png)
 
-
-
 # What is BlackDiamond Studio?
 BlackDiamond Studio is a new Integrated Development Environment (IDE) tailored to Database Engineers. It is designed and built for Snowflake, with an integrated set of features that offers a better coding experience.
 
